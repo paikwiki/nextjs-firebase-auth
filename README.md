@@ -1,3 +1,7 @@
+# Next.js Firebase authentication
+
+Next.js 프로젝트에 Firebase Auth를 적용해보기 위한 샘플 코드입니다.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
