@@ -14,7 +14,7 @@ const Logined: NextPage<WithRouterProps & Props> = ({
   router: {
     query: { userName },
   },
-}) => (
+}: Props) => (
   <div>
     <h1>login success - Hello, {userName}</h1>
   </div>
